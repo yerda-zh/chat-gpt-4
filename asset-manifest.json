@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chat-gpt-4/static/css/main.de0a1608.css",
+    "main.js": "/chat-gpt-4/static/js/main.6a24cb8c.js",
+    "static/js/787.69c28c54.chunk.js": "/chat-gpt-4/static/js/787.69c28c54.chunk.js",
+    "static/media/robot.png": "/chat-gpt-4/static/media/robot.da9e09c0e1de0e7c36e1.png",
+    "static/media/blog04.jpg": "/chat-gpt-4/static/media/blog04.c8e29b5dcd8fd5b34812.jpg",
+    "static/media/blog02.jpg": "/chat-gpt-4/static/media/blog02.fb10bf891bd89869d37f.jpg",
+    "static/media/ai.png": "/chat-gpt-4/static/media/ai.c1cad12acad4c071f819.png",
+    "static/media/blog05.jpg": "/chat-gpt-4/static/media/blog05.083ba9ecf062e499aff2.jpg",
+    "static/media/blog01.jpg": "/chat-gpt-4/static/media/blog01.1b02ae83900a44983558.jpg",
+    "static/media/blog03.jpg": "/chat-gpt-4/static/media/blog03.04472370f2d1ca2114ec.jpg",
+    "static/media/logo.png": "/chat-gpt-4/static/media/logo.0df7c0a2c155a13d593e.png",
+    "static/media/people.png": "/chat-gpt-4/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/chat-gpt-4/index.html",
+    "main.de0a1608.css.map": "/chat-gpt-4/static/css/main.de0a1608.css.map",
+    "main.6a24cb8c.js.map": "/chat-gpt-4/static/js/main.6a24cb8c.js.map",
+    "787.69c28c54.chunk.js.map": "/chat-gpt-4/static/js/787.69c28c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de0a1608.css",
+    "static/js/main.6a24cb8c.js"
+  ]
+}
