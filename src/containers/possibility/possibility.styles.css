@@ -12,6 +12,10 @@
 .gpt4__possibility-image img {
     width: 100%;
     height: 100%;
+    transition: 0.7s;
+}
+.gpt4__possibility-image img:hover {
+    transform: scale(1.07);
 }
 .gpt4__possibility-content {
     flex: 1.3;
@@ -27,6 +31,10 @@
     font-weight: 500;
     line-height: 30px;
     cursor: pointer;
+    transition: 0.2s;
+}
+.gpt4__possibility-content h4:hover{
+    color: #fff;
 }
 .gpt4__possibility-content h1 {
     font-family: var(--font-family);
@@ -46,6 +54,10 @@
 .gpt4__possibility-content h4:last-child {
     color: #FF8A71;
     margin: 0;
+    transition: 0.2s;
+}
+.gpt4__possibility-content h4:last-child:hover {
+    color: #fff;
 }
 @media screen and (max-width: 950px) {
     .gpt4__possibility {

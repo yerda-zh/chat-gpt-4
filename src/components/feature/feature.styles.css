@@ -18,6 +18,11 @@
     line-height: 24px;
     letter-spacing: -0.04em;
     color: #fff;
+    transition: 0.5s;
+    cursor: default;
+}
+.gpt4__features-container__feature-title h1:hover{
+    transform: scale(1.05);
 }
 .gpt4__features-container__feature-title div {
     width: 38px;

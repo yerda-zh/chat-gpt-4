@@ -28,6 +28,10 @@
     line-height: 30px;
     cursor: pointer;
     margin-top: 2rem;
+    transition: 0.2s;
+}
+.gpt4__features-heading p:hover {
+    color: #fff;
 }
 .gpt4__features-container {
     flex: 1.5;
